@@ -1,0 +1,12 @@
+/* bugSolution.css */
+
+div {
+  box-shadow: 5px 5px 10px #888888;
+  /* Fallback for older browsers */
+  -webkit-box-shadow: 5px 5px 10px #888888; /* Chrome, Safari */
+  -moz-box-shadow: 5px 5px 10px #888888; /* Firefox */
+  -ms-box-shadow: 5px 5px 10px #888888; /* IE */
+  -o-box-shadow: 5px 5px 10px #888888; /* Opera */
+}
+
+/* Always use standard properties first */
