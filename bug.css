@@ -1,0 +1,1 @@
+The CSS code uses a non-standard or poorly supported property, such as `-webkit-` prefixed properties without including the standard versions.  This can lead to inconsistent rendering across browsers. For example, using `-webkit-box-shadow` without `box-shadow` will only render the shadow on WebKit-based browsers (Chrome, Safari).
